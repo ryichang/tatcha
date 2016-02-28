@@ -1,0 +1,1 @@
+The purpose of the project is to produce and deploy a web application that allows users to browse the Amazon product catalog. As a user, we should (at absolute minimum) be able to access your web application and see a list of products, including product images and product names. We should also be able to interact with a list to go to the product page on www.amazon.com. 
